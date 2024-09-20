@@ -1,0 +1,156 @@
+[
+    {
+        "position": "1",
+        "driver_name": "Max Verstappen",
+        "nationality": "NED",
+        "car": "Red Bull Racing Honda RBPT",
+        "pts": "313"
+    },
+    {
+        "position": "2",
+        "driver_name": "Lando Norris",
+        "nationality": "GBR",
+        "car": "McLaren Mercedes",
+        "pts": "254"
+    },
+    {
+        "position": "3",
+        "driver_name": "Charles Leclerc",
+        "nationality": "MON",
+        "car": "Ferrari",
+        "pts": "235"
+    },
+    {
+        "position": "4",
+        "driver_name": "Oscar Piastri",
+        "nationality": "AUS",
+        "car": "McLaren Mercedes",
+        "pts": "222"
+    },
+    {
+        "position": "5",
+        "driver_name": "Carlos Sainz",
+        "nationality": "ESP",
+        "car": "Ferrari",
+        "pts": "184"
+    },
+    {
+        "position": "6",
+        "driver_name": "Lewis Hamilton",
+        "nationality": "GBR",
+        "car": "Mercedes",
+        "pts": "166"
+    },
+    {
+        "position": "7",
+        "driver_name": "George Russell",
+        "nationality": "GBR",
+        "car": "Mercedes",
+        "pts": "143"
+    },
+    {
+        "position": "8",
+        "driver_name": "Sergio Perez",
+        "nationality": "MEX",
+        "car": "Red Bull Racing Honda RBPT",
+        "pts": "143"
+    },
+    {
+        "position": "9",
+        "driver_name": "Fernando Alonso",
+        "nationality": "ESP",
+        "car": "Aston Martin Aramco Mercedes",
+        "pts": "58"
+    },
+    {
+        "position": "10",
+        "driver_name": "Lance Stroll",
+        "nationality": "CAN",
+        "car": "Aston Martin Aramco Mercedes",
+        "pts": "24"
+    },
+    {
+        "position": "11",
+        "driver_name": "Nico Hulkenberg",
+        "nationality": "GER",
+        "car": "Haas Ferrari",
+        "pts": "22"
+    },
+    {
+        "position": "12",
+        "driver_name": "Yuki Tsunoda",
+        "nationality": "JPN",
+        "car": "RB Honda RBPT",
+        "pts": "22"
+    },
+    {
+        "position": "13",
+        "driver_name": "Alexander Albon",
+        "nationality": "THA",
+        "car": "Williams Mercedes",
+        "pts": "12"
+    },
+    {
+        "position": "14",
+        "driver_name": "Daniel Ricciardo",
+        "nationality": "AUS",
+        "car": "RB Honda RBPT",
+        "pts": "12"
+    },
+    {
+        "position": "15",
+        "driver_name": "Pierre Gasly",
+        "nationality": "FRA",
+        "car": "Alpine Renault",
+        "pts": "8"
+    },
+    {
+        "position": "16",
+        "driver_name": "Oliver Bearman",
+        "nationality": "GBR",
+        "car": "Haas Ferrari",
+        "pts": "7"
+    },
+    {
+        "position": "17",
+        "driver_name": "Kevin Magnussen",
+        "nationality": "DEN",
+        "car": "Haas Ferrari",
+        "pts": "6"
+    },
+    {
+        "position": "18",
+        "driver_name": "Esteban Ocon",
+        "nationality": "FRA",
+        "car": "Alpine Renault",
+        "pts": "5"
+    },
+    {
+        "position": "19",
+        "driver_name": "Franco Colapinto",
+        "nationality": "ARG",
+        "car": "Williams Mercedes",
+        "pts": "4"
+    },
+    {
+        "position": "20",
+        "driver_name": "Zhou Guanyu",
+        "nationality": "CHN",
+        "car": "Kick Sauber Ferrari",
+        "pts": "0"
+    },
+    {
+        "position": "21",
+        "driver_name": "Logan Sargeant",
+        "nationality": "USA",
+        "car": "Williams Mercedes",
+        "pts": "0"
+    },
+    {
+        "position": "22",
+        "driver_name": "Valtteri Bottas",
+        "nationality": "FIN",
+        "car": "Kick Sauber Ferrari",
+        "pts": "0"
+    }
+]
