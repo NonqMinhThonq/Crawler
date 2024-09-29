@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  airflow:
+    image: latest
+    volumes:
+      - .airflow:/opt/airflow
+      - ./dags:/opt/airflow/dags   # Ánh xạ thư mục dags vào container
+    ports:
+      - "8080:8080"
+    command: airflow standalone
